@@ -1,5 +1,7 @@
 {
 	"PANTS": [
-		{ "name": "Dark Green Jeans", "template": "rbxassetid://144076759", "image": "rbxthumb://type=Asset&id=144076760&w=420&h=420" }
+		{ "name": "Dark Green Jeans", "template": "rbxassetid://144076759", "image": "rbxthumb://type=Asset&id=144076760&w=420&h=420" },
+		{ "name": "Ripped Skater Pants", "template": "rbxassetid://398635336", "image": "rbxthumb://type=Asset&id=398635338&w=420&h=420" },
+		{ "name": "Black Slacks", "template": "rbxassetid://129459076", "image": "rbxthumb://type=Asset&id=129459077&w=420&h=420" }
 	]
 }
