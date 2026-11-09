@@ -46,6 +46,8 @@
 		{ "name": "Little Fluffy Cloud", "asset": "1098272", "image": "rbxthumb://type=Asset&id=1098272&w=420&h=420" },
 		{ "name": "Wanwood Antlers", "asset": "1272714", "image": "rbxthumb://type=Asset&id=1272714&w=420&h=420" },
 		{ "name": "Lavender Baseball Cap", "asset": "1031324", "image": "rbxthumb://type=Asset&id=1031324&w=420&h=420" },
-		{ "name": "Witch Hat", "asset": "1165248", "image": "rbxthumb://type=Asset&id=1165248&w=420&h=420" }
+		{ "name": "Witch Hat", "asset": "1165248", "image": "rbxthumb://type=Asset&id=1165248&w=420&h=420" },
+		{ "name": "Hammerhead", "asset": "1098276", "image": "rbxthumb://type=Asset&id=1098276&w=420&h=420" },
+		{ "name": "The Crimson Catseye", "asset": "1193866", "image": "rbxthumb://type=Asset&id=1193866&w=420&h=420" }
 	]
 }
