@@ -1,5 +1,7 @@
 {
 	"HATS": [
-		{ "name": "Old Red Roblox Cap", "asset": "48474313", "image": "rbxthumb://type=Asset&id=48474313&w=420&h=420" }
+		{ "name": "Red Roblox Cap", "asset": "48474313", "image": "rbxthumb://type=Asset&id=48474313&w=420&h=420" },
+		{ "name": "Cheese Hat", "asset": "1097026", "image": "rbxthumb://type=Asset&id=1097026&w=420&h=420" },
+		{ "name": "Tin Pot", "asset": "6837506", "image": "rbxthumb://type=Asset&id=6837506&w=420&h=420" }
 	]
 }
