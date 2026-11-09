@@ -1,6 +1,5 @@
 {
 	"FACES": [
-		{ "decal": "rbxassetid://100274806876648", "image": "rbxthumb://type=Asset&id=100274806876648&w=420&h=420" },
 		{ "decal": "rbxassetid://95236782307570", "image": "rbxthumb://type=Asset&id=95236782307570&w=420&h=420" },
 		{ "decal": "rbxassetid://85981926590984", "image": "rbxthumb://type=Asset&id=85981926590984&w=420&h=420" },
 		{ "decal": "rbxassetid://91736025345515", "image": "rbxthumb://type=Asset&id=91736025345515&w=420&h=420" },
@@ -17,6 +16,7 @@
 		{ "decal": "rbxassetid://87781861242607", "image": "rbxthumb://type=Asset&id=87781861242607&w=420&h=420" },
 		{ "decal": "rbxassetid://88056618918328", "image": "rbxthumb://type=Asset&id=88056618918328&w=420&h=420" },
 		{ "decal": "rbxassetid://133537138957917", "image": "rbxthumb://type=Asset&id=133537138957917&w=420&h=420" },
-		{ "decal": "rbxassetid://95455482065237", "image": "rbxthumb://type=Asset&id=95455482065237&w=420&h=420" }
+		{ "decal": "rbxassetid://95455482065237", "image": "rbxthumb://type=Asset&id=95455482065237&w=420&h=420" },
+		{ "decal": "rbxassetid://87594877116513", "image": "rbxthumb://type=Asset&id=87594877116513&w=420&h=420" }
 	]
 }
