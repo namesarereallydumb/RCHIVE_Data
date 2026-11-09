@@ -2,6 +2,9 @@
 	"HEADS": [
 		{ "name": "Hex Head", "mesh": "rbxasset://avatar/heads/headI.mesh", "image": "rbxthumb://type=Asset&id=132669907355414&w=420&h=420" },
 		{ "name": "Block Head", "mesh": "rbxasset://avatar/heads/headB.mesh", "image": "rbxthumb://type=Asset&id=77697528647675&w=420&h=420" },
-		{ "name": "Perfection Head", "mesh": "rbxasset://avatar/heads/headL.mesh", "image": "rbxthumb://type=Asset&id=112689279704503&w=420&h=420" }
+		{ "name": "Perfection Head", "mesh": "rbxasset://avatar/heads/headL.mesh", "image": "rbxthumb://type=Asset&id=112689279704503&w=420&h=420" },
+		{ "name": "Diamond Head", "mesh": "rbxasset://avatar/heads/headE.mesh", "image": "rbxthumb://type=Asset&id=102225003515873&w=420&h=420" },
+		{ "name": "Peabrain Head", "mesh": "rbxasset://avatar/heads/headK.mesh", "image": "rbxthumb://type=Asset&id=86601892787223&w=420&h=420" },
+		{ "name": "Strong Jaw Head", "mesh": "rbxassetid://616399000", "image": "rbxthumb://type=Asset&id=82547190082106&w=420&h=420" }
 	]
 }
