@@ -5,6 +5,10 @@
         { "name": "Troll Shirt", "template": "rbxassetid://5656626425", "image": "rbxthumb://type=Asset&id=5656626450&w=420&h=420" },
         { "name": "Green Jersey", "template": "rbxassetid://382538058", "image": "rbxthumb://type=Asset&id=382538059&w=420&h=420" },
 		{ "name": "Claire Shirt", "template": "rbxassetid://319352804", "image": "rbxthumb://type=Asset&id=301808824&w=420&h=420" },
-		{ "name": "HHGreg Shirt", "template": "rbxassetid://6036961734", "image": "rbxthumb://type=Asset&id=6036961753&w=420&h=420" }
+		{ "name": "HHGreg Shirt", "template": "rbxassetid://6036961734", "image": "rbxthumb://type=Asset&id=6036961753&w=420&h=420" },
+		{ "name": "John Shirt", "template": "rbxassetid://321738372", "image": "rbxthumb://type=Asset&id=301809996&w=420&h=420" },
+		{ "name": "Blue Plaid Shirt", "template": "rbxassetid://398635080", "image": "rbxthumb://type=Asset&id=398635081&w=420&h=420" },
+		{ "name": "Dab On Them Haters Shirt", "template": "rbxassetid://17044638374", "image": "rbxthumb://type=Asset&id=17044638424&w=420&h=420" },
+		{ "name": "Galaxy Cat Shirt", "template": "rbxassetid://2837231811", "image": "rbxthumb://type=Asset&id=2837231829&w=420&h=420" }
 	]
 }
