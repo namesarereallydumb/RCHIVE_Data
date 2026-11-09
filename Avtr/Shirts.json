@@ -9,6 +9,7 @@
 		{ "name": "John Shirt", "template": "rbxassetid://321738372", "image": "rbxthumb://type=Asset&id=301809996&w=420&h=420" },
 		{ "name": "Blue Plaid Shirt", "template": "rbxassetid://398635080", "image": "rbxthumb://type=Asset&id=398635081&w=420&h=420" },
 		{ "name": "Dab On Them Haters Shirt", "template": "rbxassetid://17044638374", "image": "rbxthumb://type=Asset&id=17044638424&w=420&h=420" },
-		{ "name": "Galaxy Cat Shirt", "template": "rbxassetid://2837231811", "image": "rbxthumb://type=Asset&id=2837231829&w=420&h=420" }
+		{ "name": "Galaxy Cat Shirt", "template": "rbxassetid://2837231811", "image": "rbxthumb://type=Asset&id=2837231829&w=420&h=420" },
+		{ "name": "White Tee", "template": "rbxassetid://2976231978", "image": "rbxthumb://type=Asset&id=2976232006&w=420&h=420" }
 	]
 }
