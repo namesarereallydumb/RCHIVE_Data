@@ -1,5 +1,8 @@
 {
 	"SHIRTS": [
-		{ "name": "Blue and Black Motorcycle Shirt", "template": "rbxassetid://144076357", "image": "rbxthumb://type=Asset&id=144076358&w=420&h=420" }
+		{ "name": "Blue and Black Motorcycle Shirt", "template": "rbxassetid://144076357", "image": "rbxthumb://type=Asset&id=144076358&w=420&h=420" },
+		{ "name": "Igari Shirt", "template": "rbxassetid://81735003464852", "image": "rbxthumb://type=Asset&id=97195870688780&w=420&h=420" },
+        { "name": "Troll Shirt", "template": "rbxassetid://5656626425", "image": "rbxthumb://type=Asset&id=5656626450&w=420&h=420" },
+        { "name": "Green Jersey", "template": "rbxassetid://382538058", "image": "rbxthumb://type=Asset&id=382538059&w=420&h=420" }
 	]
 }
