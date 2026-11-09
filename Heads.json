@@ -4,6 +4,7 @@
 		{ "name": "Block Head", "mesh": "rbxasset://avatar/heads/headB.mesh", "image": "rbxthumb://type=Asset&id=77697528647675&w=420&h=420" },
 		{ "name": "Perfection Head", "mesh": "rbxasset://avatar/heads/headL.mesh", "image": "rbxthumb://type=Asset&id=112689279704503&w=420&h=420" },
 		{ "name": "Diamond Head", "mesh": "rbxasset://avatar/heads/headE.mesh", "image": "rbxthumb://type=Asset&id=102225003515873&w=420&h=420" },
-		{ "name": "Peabrain Head", "mesh": "rbxasset://avatar/heads/headK.mesh", "image": "rbxthumb://type=Asset&id=86601892787223&w=420&h=420" }
+		{ "name": "Peabrain Head", "mesh": "rbxasset://avatar/heads/headK.mesh", "image": "rbxthumb://type=Asset&id=86601892787223&w=420&h=420" },
+		{ "name": "Headless Horseman Head", "mesh": "rbxassetid://134079402", "image": "rbxthumb://type=Asset&id=8117957811&w=420&h=420" }
 	]
 }
