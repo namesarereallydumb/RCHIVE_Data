@@ -13,6 +13,8 @@
 		{ "name": "TShirt11", "graphic": "rbxassetid://1425244", "image": "rbxthumb://type=Asset&id=1425245&w=420&h=420" },
 		{ "name": "TShirt12", "graphic": "rbxassetid://1609650", "image": "rbxthumb://type=Asset&id=1609651&w=420&h=420" },
 		{ "name": "TShirt13", "graphic": "rbxassetid://1756351", "image": "rbxthumb://type=Asset&id=1756352&w=420&h=420" },
-		{ "name": "TShirt14", "graphic": "rbxassetid://1788870", "image": "rbxthumb://type=Asset&id=1788871&w=420&h=420" }
+		{ "name": "TShirt14", "graphic": "rbxassetid://1788870", "image": "rbxthumb://type=Asset&id=1788871&w=420&h=420" },
+		{ "name": "TShirt15", "graphic": "rbxassetid://114314430609403", "image": "rbxthumb://type=Asset&id=135353642131685&w=420&h=420" },
+		{ "name": "TShirt16", "graphic": "rbxassetid://1634246", "image": "rbxthumb://type=Asset&id=1634247&w=420&h=420" }
 	]
 }
