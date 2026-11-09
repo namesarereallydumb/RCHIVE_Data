@@ -2,6 +2,10 @@
 	"PANTS": [
 		{ "name": "Dark Green Jeans", "template": "rbxassetid://144076759", "image": "rbxthumb://type=Asset&id=144076760&w=420&h=420" },
 		{ "name": "Ripped Skater Pants", "template": "rbxassetid://398635336", "image": "rbxthumb://type=Asset&id=398635338&w=420&h=420" },
-		{ "name": "Black Slacks", "template": "rbxassetid://129459076", "image": "rbxthumb://type=Asset&id=129459077&w=420&h=420" }
+		{ "name": "Black Slacks", "template": "rbxassetid://129459076", "image": "rbxthumb://type=Asset&id=129459077&w=420&h=420" },
+		{ "name": "Claire Pants", "template": "rbxassetid://1041572995", "image": "rbxthumb://type=Asset&id=301810800&w=420&h=420" },
+		{ "name": "Black Jeans", "template": "rbxassetid://382537568", "image": "rbxthumb://type=Asset&id=382537569&w=420&h=420" },
+		{ "name": "Casey Pants", "template": "rbxassetid://311318110", "image": "rbxthumb://type=Asset&id=301811027&w=420&h=420" },
+		{ "name": "Pink Jeans", "template": "rbxassetid://144076511", "image": "rbxthumb://type=Asset&id=144076512&w=420&h=420" }
 	]
 }
