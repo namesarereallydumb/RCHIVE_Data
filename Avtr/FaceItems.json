@@ -2,6 +2,10 @@
 	"FACE_ITEMS": [
 		{ "name": "Stylish Aviators", "asset": "376526673", "image": "rbxthumb://type=Asset&id=376526673&w=420&h=420" },
 		{ "name": "Night Vision Goggles", "asset": "1279018", "image": "rbxthumb://type=Asset&id=1279018&w=420&h=420", "placement": "Hat" },
-		{ "name": "Eye Poppers", "asset": "15727015", "image": "rbxthumb://type=Asset&id=15727015&w=420&h=420", "placement": "Hat" }
+		{ "name": "Eye Poppers", "asset": "15727015", "image": "rbxthumb://type=Asset&id=15727015&w=420&h=420", "placement": "Hat" },
+		{ "name": "Claire's Shades", "asset": "301820599", "image": "rbxthumb://type=Asset&id=301820599&w=420&h=420" },
+		{ "name": "Orange Shades", "asset": "376527500", "image": "rbxthumb://type=Asset&id=376527500&w=420&h=420" },
+		{ "name": "Casey’s Shades", "asset": "301820642", "image": "rbxthumb://type=Asset&id=301820642&w=420&h=420" },
+		{ "name": "Oakley's Glasses", "asset": "301820724", "image": "rbxthumb://type=Asset&id=301820724&w=420&h=420" }
 	]
 }
