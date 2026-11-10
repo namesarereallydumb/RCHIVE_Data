@@ -1,1 +1,5 @@
-
+{
+	"ADMIN_FACES": [
+		{ "name": "gaming face", "minRole": "Moderator", "decal": "rbxassetid://8508980527", "image": "rbxthumb://type=Asset&id=8508980527&w=420&h=420" }
+	]
+}
