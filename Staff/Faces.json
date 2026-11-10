@@ -1,5 +1,8 @@
 {
 	"ADMIN_FACES": [
-		{ "name": "gaming face", "minRole": "Moderator", "decal": "rbxassetid://8508980527", "image": "rbxthumb://type=Asset&id=8508980527&w=420&h=420" }
+		{ "name": "gaming face", "minRole": "Moderator", "decal": "rbxassetid://8508980527", "image": "rbxthumb://type=Asset&id=8508980527&w=420&h=420" },
+		{ "name": "juangamer62 face", "minRole": "Moderator", "decal": "rbxassetid://6319951708", "image": "rbxthumb://type=Asset&id=6319951708&w=420&h=420" },
+		{ "name": "scary face", "minRole": "Moderator", "decal": "rbxassetid://142859759", "image": "rbxthumb://type=Asset&id=1428597598&w=420&h=420" },
+		{ "name": "wut is taht face", "minRole": "Moderator", "decal": "rbxassetid://306861547", "image": "rbxthumb://type=Asset&id=306861547&w=420&h=420" }
 	]
 }
