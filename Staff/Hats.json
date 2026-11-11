@@ -8,6 +8,7 @@
 		{ "name": "Blue Banded Boss White Hat", "minRole": "Moderator", "asset": "173624602", "image": "rbxthumb://type=Asset&id=173624602&w=420&h=420" },
 		{ "name": "Red Banded Boss White Hat", "minRole": "Admin", "asset": "173624749", "image": "rbxthumb://type=Asset&id=173624749&w=420&h=420" },
 		{ "name": "long head", "minRole": "Moderator", "asset": "14967052992", "image": "rbxthumb://type=Asset&id=14967052992&w=420&h=420" },
-		{ "name": "): Red Grind", "minRole": "Admin", "asset": "20573086", "image": "rbxthumb://type=Asset&id=20573086&w=420&h=420" }
+		{ "name": "): Red Grind", "minRole": "Admin", "asset": "20573086", "image": "rbxthumb://type=Asset&id=20573086&w=420&h=420" },
+		{ "name": "): Euro 180", "minRole": "Moderator", "asset": "23705521", "image": "rbxthumb://type=Asset&id=23705521&w=420&h=420" }
 	]
 }
