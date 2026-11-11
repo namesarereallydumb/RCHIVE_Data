@@ -153,7 +153,12 @@
 		{ "name": "Eggmin", "asset": "380566339", "image": "rbxthumb://type=Asset&id=380566339&w=420&h=420" },
 		{ "name": "Normal Egg", "asset": "380569757", "image": "rbxthumb://type=Asset&id=380569757&w=420&h=420" },
 		{ "name": "Dominus Rex", "asset": "250395631", "image": "rbxthumb://type=Asset&id=250395631&w=420&h=420" },
-		{ "name": "Universal Fedora", "asset": "259424300", "image": "rbxthumb://type=Asset&id=259424300&w=420&h=420" }
+		{ "name": "Universal Fedora", "asset": "259424300", "image": "rbxthumb://type=Asset&id=259424300&w=420&h=420" },
+		{ "name": "Viridian Antlers", "asset": "227694941", "image": "rbxthumb://type=Asset&id=227694941&w=420&h=420" },
+		{ "name": "Fiery Horns of the Netherworld", "asset": "215718515", "image": "rbxthumb://type=Asset&id=215718515&w=420&h=420" },
+		{ "name": "2015 ROBLOX Visor", "asset": "191273676", "image": "rbxthumb://type=Asset&id=191273676&w=420&h=420" },
+		{ "name": "Frozen Horns of the Frigid Planes", "asset": "74891470", "image": "rbxthumb://type=Asset&id=74891470&w=420&h=420" },
+		{ "name": "Poisoned Horns of the Toxic Wasteland", "asset": "1744060292", "image": "rbxthumb://type=Asset&id=1744060292&w=420&h=420" }
 		
 	]
 }
