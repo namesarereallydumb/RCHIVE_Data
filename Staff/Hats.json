@@ -7,7 +7,6 @@
 		{ "name": "Golden Bucket Of Excellence", "minRole": "Moderator", "asset": "1208047903", "image": "rbxthumb://type=Asset&id=1208047903&w=420&h=420" },
 		{ "name": "Blue Banded Boss White Hat", "minRole": "Moderator", "asset": "173624602", "image": "rbxthumb://type=Asset&id=173624602&w=420&h=420" },
 		{ "name": "Red Banded Boss White Hat", "minRole": "Admin", "asset": "173624749", "image": "rbxthumb://type=Asset&id=173624749&w=420&h=420" },
-		{ "name": "long head", "minRole": "Moderator", "asset": "14967052992", "image": "rbxthumb://type=Asset&id=14967052992&w=420&h=420" },
-		{ "name": "long torso", "minRole": "Moderator", "asset": "138364679836274", "image": "rbxthumb://type=Asset&id=138364679836274&w=420&h=420" }
+		{ "name": "long head", "minRole": "Moderator", "asset": "14967052992", "image": "rbxthumb://type=Asset&id=14967052992&w=420&h=420" }
 	]
 }
