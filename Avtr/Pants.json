@@ -7,6 +7,8 @@
 		{ "name": "Black Jeans", "template": "rbxassetid://382537568", "image": "rbxthumb://type=Asset&id=382537569&w=420&h=420" },
 		{ "name": "Casey Pants", "template": "rbxassetid://311318110", "image": "rbxthumb://type=Asset&id=301811027&w=420&h=420" },
 		{ "name": "Pink Jeans", "template": "rbxassetid://144076511", "image": "rbxthumb://type=Asset&id=144076512&w=420&h=420" },
-		{ "name": "HHGreg Pants", "template": "rbxassetid://6036984717", "image": "rbxthumb://type=Asset&id=6036984736&w=420&h=420" }
+		{ "name": "HHGreg Pants", "template": "rbxassetid://6036984717", "image": "rbxthumb://type=Asset&id=6036984736&w=420&h=420" },
+		{ "name": "White Baggy Cargos", "template": "rbxassetid://11372689038", "image": "rbxthumb://type=Asset&id=11372689045&w=420&h=420" },
+		{ "name": "Blue Y2K -", "template": "rbxassetid://139781602320811", "image": "rbxthumb://type=Asset&id=86787230716048&w=420&h=420" },
 	]
 }
