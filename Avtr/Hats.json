@@ -161,7 +161,10 @@
 		{ "name": "Golden Antlers", "asset": "193659065", "image": "rbxthumb://type=Asset&id=193659065&w=420&h=420" },
 		{ "name": "Purple Ice Crown", "asset": "193696364", "image": "rbxthumb://type=Asset&id=193696364&w=420&h=420" },
 		{ "name": "Ghosdeeri", "asset": "183468963", "image": "rbxthumb://type=Asset&id=183468963&w=420&h=420" },
-		{ "name": "Red Ice Crown", "asset": "193696583", "image": "rbxthumb://type=Asset&id=193696583&w=420&h=420" }
+		{ "name": "Red Ice Crown", "asset": "193696583", "image": "rbxthumb://type=Asset&id=193696583&w=420&h=420" },
+		{ "name": "Build A Boat for a Top Hat", "asset": "108433642306851", "image": "rbxthumb://type=Asset&id=108433642306851&w=420&h=420" },
+		{ "name": "Crossroads Tower", "asset": "125765831436846", "image": "rbxthumb://type=Asset&id=125765831436846&w=420&h=420" },
+		{ "name": "Builder Brothers’ Balancing Act", "asset": "101209600748374", "image": "rbxthumb://type=Asset&id=101209600748374&w=420&h=420" }
 		
 	]
 }
