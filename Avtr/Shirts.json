@@ -14,6 +14,8 @@
 		{ "name": "Red Suit", "template": "rbxassetid://4529309254", "image": "rbxthumb://type=Asset&id=4529309260&w=420&h=420" },
 		{ "name": "Blue Christmas Sweater", "template": "rbxassetid://5977025359", "image": "rbxthumb://type=Asset&id=5977025377&w=420&h=420" },
 		{ "name": "DCN Blue Shirt", "template": "rbxassetid://3237655675", "image": "rbxthumb://type=Asset&id=3237655691&w=420&h=420" },
-		{ "name": "Blue Shirt 1", "template": "rbxassetid://11970121244", "image": "rbxthumb://type=Asset&id=11970121254&w=420&h=420" }
+		{ "name": "Blue Shirt 1", "template": "rbxassetid://11970121244", "image": "rbxthumb://type=Asset&id=11970121254&w=420&h=420" },
+		{ "name": "Black Shirt 1", "template": "rbxassetid://13317559990", "image": "rbxthumb://type=Asset&id=13317560015&w=420&h=420" },
+		{ "name": "Red Banded Suit", "template": "rbxassetid://101639172425770", "image": "rbxthumb://type=Asset&id=123818224885325&w=420&h=420" }
 	]
 }
