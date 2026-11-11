@@ -1,1 +1,5 @@
-
+{
+	"ADMIN_HATS": [
+		{ "name": "Admin Bunny Ears of Mischief", "minRole": "Admin", "asset": "228590119", "image": "rbxthumb://type=Asset&id=228590119&w=420&h=420" }
+	]
+}
