@@ -1,5 +1,13 @@
 {
 	"SHOULDERS": [
-		{ "name": "The Bird Says____.", "asset": "253151806", "side": "Right", "image": "rbxthumb://type=Asset&id=253151806&w=420&h=420" }
+		{ "name": "The Bird Says____.", "asset": "253151806", "side": "Right", "image": "rbxthumb://type=Asset&id=253151806&w=420&h=420" },
+		{ "name": "Pirate Parrot", "asset": "20721256", "side": "Left", "image": "rbxthumb://type=Asset&id=20721256&w=420&h=420" },
+		{ "name": "Happy New Year Pig", "asset": "2804660059", "side": "Right", "image": "rbxthumb://type=Asset&id=2804660059&w=420&h=420" },
+		{ "name": "Shoulder Crow", "asset": "106709021", "side": "Left", "image": "rbxthumb://type=Asset&id=106709021&w=420&h=420" },
+		{ "name": "New Years Kitty", "asset": "2620477453", "side": "Left", "image": "rbxthumb://type=Asset&id=2620477453&w=420&h=420" },
+		{ "name": "Groovy Bee.", "asset": "8657834475", "side": "Left", "image": "rbxthumb://type=Asset&id=8657834475&w=420&h=420" },
+		{ "name": "Kamp Koala Summer Pal", "asset": "3210212446", "side": "Right", "image": "rbxthumb://type=Asset&id=3210212446&w=420&h=420" },
+		{ "name": "Little Green Man", "asset": "2956234932", "side": "Right", "image": "rbxthumb://type=Asset&id=2956234932&w=420&h=420" },
+		{ "name": "Sleepy Penguin Friend", "asset": "1213428947", "side": "Left", "image": "rbxthumb://type=Asset&id=1213428947&w=420&h=420" }
 	]
 }
