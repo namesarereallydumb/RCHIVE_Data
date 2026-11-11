@@ -1,5 +1,6 @@
 {
 	"ADMIN_HATS": [
-		{ "name": "Admin Bunny Ears of Mischief", "minRole": "Admin", "asset": "228590119", "image": "rbxthumb://type=Asset&id=228590119&w=420&h=420" }
+		{ "name": "Admin Bunny Ears of Mischief", "minRole": "Admin", "asset": "228590119", "image": "rbxthumb://type=Asset&id=228590119&w=420&h=420" },
+		{ "name": "): Dev Darkslide", "minRole": "Owner", "asset": "95923968549961", "image": "rbxthumb://type=Asset&id=95923968549961&w=420&h=420" }
 	]
 }
