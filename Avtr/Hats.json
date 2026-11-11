@@ -158,7 +158,11 @@
 		{ "name": "Fiery Horns of the Netherworld", "asset": "215718515", "image": "rbxthumb://type=Asset&id=215718515&w=420&h=420" },
 		{ "name": "2015 ROBLOX Visor", "asset": "191273676", "image": "rbxthumb://type=Asset&id=191273676&w=420&h=420" },
 		{ "name": "Frozen Horns of the Frigid Planes", "asset": "74891470", "image": "rbxthumb://type=Asset&id=74891470&w=420&h=420" },
-		{ "name": "Poisoned Horns of the Toxic Wasteland", "asset": "1744060292", "image": "rbxthumb://type=Asset&id=1744060292&w=420&h=420" }
+		{ "name": "Poisoned Horns of the Toxic Wasteland", "asset": "1744060292", "image": "rbxthumb://type=Asset&id=1744060292&w=420&h=420" },
+		{ "name": "Golden Antlers", "asset": "193659065", "image": "rbxthumb://type=Asset&id=193659065&w=420&h=420" },
+		{ "name": "Purple Ice Crown", "asset": "193696364", "image": "rbxthumb://type=Asset&id=193696364&w=420&h=420" },
+		{ "name": "Ghosdeeri", "asset": "183468963", "image": "rbxthumb://type=Asset&id=183468963&w=420&h=420" },
+		{ "name": "Red Ice Crown", "asset": "193696583", "image": "rbxthumb://type=Asset&id=193696583&w=420&h=420" }
 		
 	]
 }
