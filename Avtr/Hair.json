@@ -1,6 +1,16 @@
 {
 	"HAIR": [
 		{ "name": "Brown Charmer Hair", "asset": "376548738", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=376548738&w=420&h=420" },
-        { "name": "Cinnamon Hair", "asset": "13745548", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=13745548&w=420&h=420" }
+        { "name": "Cinnamon Hair", "asset": "13745548", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=13745548&w=420&h=420" },
+		{ "name": "Black and Red", "asset": "14815761", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=14815761&w=420&h=420" },
+		{ "name": "Black Manga Hero Hair", "asset": "398672920", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=398672920&w=420&h=420" },
+		{ "name": "Beautiful Blonde Hair for Beautiful People", "asset": "233615637", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=233615637&w=420&h=420" },
+		{ "name": "Beautiful Brown Hair for Beautiful People", "asset": "17877340", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=17877340&w=420&h=420" },
+		{ "name": "Golden Hair", "asset": "13476917", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=13476917&w=420&h=420" },
+		{ "name": "Blonde Spiked Hair", "asset": "376524487", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=376524487&w=420&h=420" },
+		{ "name": "Brown Hair", "asset": "62234425", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=62234425&w=420&h=420" },
+		{ "name": "Chestnut Bun", "asset": "62724852", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=62724852&w=420&h=420" },
+		{ "name": "Pal Hair", "asset": "63690008", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=63690008&w=420&h=420" },
+		{ "name": "True Blue Hair", "asset": "451221329", "attachment": "Hair", "image": "rbxthumb://type=Asset&id=451221329&w=420&h=420" }
 	]
 }
