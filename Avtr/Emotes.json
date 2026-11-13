@@ -1,1 +1,6 @@
-
+{
+	"EMOTES": [
+		{ "name": "/e relief", "asset": 83264050360180, "loop": false },
+		{ "name": "/e parker", "asset": 125167364565670, "loop": true }
+	]
+}
