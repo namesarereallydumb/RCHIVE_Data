@@ -1,22 +1,66 @@
 {
-	"BUNDLES": [
-		{
-			"name": "Robloxian 2.0",
-			"image": "rbxthumb://type=Asset&id=128510011603592&w=420&h=420",
-			"parts": {
-				"Torso": 27112025,
-				"LeftArm": 27112052,
-				"RightArm": 27112039,
-				"LeftLeg": 27112056,
-				"RightLeg": 27112068
-			}
-		},
-		{
-			"name": "ROBLOX Girl",
-			"image": "rbxthumb://type=Asset&id=48474356&w=420&h=420",
-			"parts": {
-				"Torso": 48474356
-			}
-		}
-	]
+  "BUNDLES": [
+    {
+      "name": "Robloxian 2.0",
+      "image": "rbxthumb://type=Asset&id=128510011603592&w=420&h=420",
+      "parts": {
+        "Torso": 27112025,
+        "LeftArm": 27112052,
+        "RightArm": 27112039,
+        "LeftLeg": 27112056,
+        "RightLeg": 27112068
+      }
+    },
+    {
+      "name": "ROBLOX Girl",
+      "image": "rbxthumb://type=Asset&id=48474356&w=420&h=420",
+      "parts": {
+        "Torso": 48474356
+      }
+    },
+    {
+      "name": "Man",
+      "image": "rbxthumb://type=Asset&id=122730945223621&w=420&h=420",
+      "parts": {
+        "Torso": 86500008,
+        "LeftArm": 86500054,
+        "RightArm": 86500036,
+        "LeftLeg": 86500064,
+        "RightLeg": 86500078
+      }
+    },
+	{
+      "name": "Woman",
+      "image": "rbxthumb://type=Asset&id=115484077716847&w=420&h=420",
+      "parts": {
+        "Torso": 86499666,
+        "LeftArm": 86499716,
+        "RightArm": 86499698,
+        "LeftLeg": 86499753,
+        "RightLeg": 86499793
+      }
+    },
+	  {
+      "name": "ROBLOX Boy",
+      "image": "rbxthumb://type=Asset&id=96823817687720&w=420&h=420",
+      "parts": {
+        "Torso": 376532000,
+        "LeftArm": 376530220,
+        "RightArm": 376531012,
+        "LeftLeg": 376531300,
+        "RightLeg": 376531703
+      }
+    },
+	  {
+      "name": "ROBLOX Girl",
+      "image": "rbxthumb://type=Asset&id=113617862356717&w=420&h=420",
+      "parts": {
+        "Torso": 376547767,
+        "LeftArm": 376547633,
+        "RightArm": 376547341,
+        "LeftLeg": 376546668,
+        "RightLeg": 376547092
+      }
+    }
+  ]
 }
