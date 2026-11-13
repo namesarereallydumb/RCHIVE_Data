@@ -1,17 +1,21 @@
 {
 	"BUNDLES": [
 		{
-			"name": "Known Left Leg",
-			"image": "rbxthumb://type=Asset&id=13169262757&w=420&h=420",
+			"name": "Robloxian 2.0",
+			"image": "rbxthumb://type=Asset&id=128510011603592&w=420&h=420",
 			"parts": {
-				"LeftLeg": 301825699
+				"Torso": 27112025,
+				"LeftArm": 27112052,
+				"RightArm": 27112039,
+				"LeftLeg": 27112056,
+				"RightLeg": 27112068
 			}
 		},
 		{
-			"name": "Second Bundle",
-			"image": "rbxthumb://type=Asset&id=9099782826&w=420&h=420",
+			"name": "ROBLOX Girl",
+			"image": "rbxthumb://type=Asset&id=48474356&w=420&h=420",
 			"parts": {
-				"RightLeg": 27112068
+				"Torso": 48474356
 			}
 		}
 	]
