@@ -1,6 +1,12 @@
 {
 	"EMOTES": [
 		{ "name": "/e relief", "asset": 83264050360180, "loop": false },
-		{ "name": "/e parker", "asset": 125167364565670, "loop": true }
+		{ "name": "/e parker", "asset": 125167364565670, "loop": true },
+		{ "name": "/e thriller", "asset": 129740954877001, "loop": true },
+		{ "name": "/e fresh", "asset": 78832542739682, "loop": true },
+		{ "name": "/e default", "asset": 91058106607067, "loop": true },
+		{ "name": "/e clap", "asset": 80602740340500, "loop": true },
+		{ "name": "/e kakick", "asset": 76034121810595, "loop": true },
+		{ "name": "/e headless", "asset": 75986670811995, "loop": false }
 	]
 }
