@@ -10,6 +10,17 @@
 				"LeftLeg": 27112056,
 				"RightLeg": 27112068
 			}
+		},
+		{
+	"BUNDLES": [
+		{
+			"name": "Left Leg Test",
+			"image": "rbxthumb://type=Asset&id=123456&w=420&h=420",
+			"parts": {
+				"LeftLeg": 301825699
+			}
 		}
+	]
+}
 	]
 }
