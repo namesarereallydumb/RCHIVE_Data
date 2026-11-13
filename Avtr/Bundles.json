@@ -106,6 +106,28 @@
         "LeftLeg": 139607673,
         "RightLeg": 139607718
       }
+    },
+	  {
+      "name": "Zombie",
+      "image": "rbxthumb://type=Asset&id=91943748940392&w=420&h=420",
+      "parts": {
+		"Torso": 37754511,
+        "LeftArm": 37754607,
+        "RightArm": 37754562,
+        "LeftLeg": 37754646,
+        "RightLeg": 37754710
+      }
+    },
+	  {
+      "name": "Skeleton",
+      "image": "rbxthumb://type=Asset&id=135628199435137&w=420&h=420",
+      "parts": {
+		"Torso": 36781360,
+        "LeftArm": 36781447,
+        "RightArm": 36781407,
+        "LeftLeg": 36781481,
+        "RightLeg": 36781518
+      }
     }
   ]
 }
