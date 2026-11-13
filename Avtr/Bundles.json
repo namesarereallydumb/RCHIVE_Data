@@ -1,26 +1,7 @@
 {
-	"BUNDLES": [
-		{
-			"name": "Robloxian 2.0",
-			"image": "rbxthumb://type=Asset&id=128510011603592&w=420&h=420",
-			"parts": {
-				"Torso": 27112025,
-				"LeftArm": 27112052,
-				"RightArm": 27112039,
-				"LeftLeg": 27112056,
-				"RightLeg": 27112068
-			}
-		},
-		{
-	"BUNDLES": [
-		{
-			"name": "Left Leg Test",
-			"image": "rbxthumb://type=Asset&id=123456&w=420&h=420",
-			"parts": {
-				"LeftLeg": 301825699
-			}
-		}
-	]
-}
-	]
+	"name": "Second Bundle",
+	"image": "rbxthumb://type=Asset&id=654321&w=420&h=420",
+	"parts": {
+		"RightLeg": 27112068
+	}
 }
