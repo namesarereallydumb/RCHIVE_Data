@@ -61,6 +61,51 @@
         "LeftLeg": 376546668,
         "RightLeg": 376547092
       }
+    },
+	  {
+      "name": "Gunslinger",
+      "image": "rbxthumb://type=Asset&id=139304939106020&w=420&h=420",
+      "parts": {
+        "Torso": 32357558,
+        "LeftArm": 32357619,
+        "RightArm": 32357584,
+        "LeftLeg": 32357631,
+        "RightLeg": 32357663
+      }
+    },
+	  {
+      "name": "Action Figure",
+      "image": "rbxthumb://type=Asset&id=125813991048668&w=420&h=420",
+      "parts": {
+        "Torso": 27402546,
+        "LeftArm": 27402641,
+        "RightArm": 27402580,
+        "LeftLeg": 27402714,
+        "RightLeg": 27402742
+      }
+    },
+	  {
+      "name": "Tentacled Alien",
+      "image": "rbxthumb://type=Asset&id=137849916101200&w=420&h=420",
+      "parts": {
+        "Torso": 27493604,
+        "LeftArm": 27493648,
+        "RightArm": 27493629,
+        "LeftLeg": 27493683,
+        "RightLeg": 27493718
+      }
+    },
+	  {
+      "name": "Korblox Deathspeaker",
+      "image": "rbxthumb://type=Asset&id=97620580391979&w=420&h=420",
+      "parts": {
+        "Head": 139610147,
+		"Torso": 139607770,
+        "LeftArm": 139607570,
+        "RightArm": 139607625,
+        "LeftLeg": 139607673,
+        "RightLeg": 139607718
+      }
     }
   ]
 }
