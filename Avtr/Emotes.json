@@ -1,12 +1,15 @@
 {
 	"EMOTES": [
-		{ "name": "/e relief", "asset": 83264050360180, "loop": false },
-		{ "name": "/e parker", "asset": 125167364565670, "loop": true },
-		{ "name": "/e thriller", "asset": 129740954877001, "loop": true },
-		{ "name": "/e fresh", "asset": 78832542739682, "loop": true },
-		{ "name": "/e default", "asset": 91058106607067, "loop": true },
-		{ "name": "/e clap", "asset": 80602740340500, "loop": true },
-		{ "name": "/e kakick", "asset": 76034121810595, "loop": true },
-		{ "name": "/e headless", "asset": 75986670811995, "loop": false }
+		{ "name": "/e greatest", "asset": 74129754236716, "loop": false },
+		{ "name": "/e monkey", "asset": 130657298543873, "loop": false },
+		{ "name": "/e oldtown", "asset": 138486065212395, "loop": true },
+		{ "name": "/e shuffle", "asset": 124170103133712, "loop": true },
+		{ "name": "/e aroundtown", "asset": 93903455904428, "loop": false },
+		{ "name": "/e happy", "asset": 94665587593604, "loop": true },
+		{ "name": "/e bodybuilder", "asset": 138647171622436, "loop": false },
+		{ "name": "/e happierjump", "asset": 93721327926558, "loop": true },
+		{ "name": "/e godlike", "asset": 136613419741601, "loop": false },
+		{ "name": "/e babydance", "asset": 130641163999235, "loop": true },
+		{ "name": "/e fallfloat", "asset": 116207957450182, "loop": false }
 	]
 }
