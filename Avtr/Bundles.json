@@ -1,6 +1,13 @@
 {
 	"BUNDLES": [
 		{
+			"name": "Known Left Leg",
+			"image": "rbxthumb://type=Asset&id=13169262757&w=420&h=420",
+			"parts": {
+				"LeftLeg": 301825699
+			}
+		},
+		{
 			"name": "Second Bundle",
 			"image": "rbxthumb://type=Asset&id=9099782826&w=420&h=420",
 			"parts": {
