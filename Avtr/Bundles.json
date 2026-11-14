@@ -128,6 +128,72 @@
         "LeftLeg": 36781481,
         "RightLeg": 36781518
       }
+    },
+	  {
+      "name": "Superhero",
+      "image": "rbxthumb://type=Asset&id=79180094933618&w=420&h=420",
+      "parts": {
+		"Torso": 32336059,
+        "LeftArm": 32336182,
+        "RightArm": 32336117,
+        "LeftLeg": 32336243,
+        "RightLeg": 32336306
+      }
+    },
+	  {
+      "name": "Pirate Swashbuckler",
+      "image": "rbxthumb://type=Asset&id=89284896160122&w=420&h=420",
+      "parts": {
+		"Torso": 27847359,
+        "LeftArm": 27847412,
+        "RightArm": 27847382,
+        "LeftLeg": 27847445,
+        "RightLeg": 27847473
+      }
+    },
+	  {
+      "name": "Mr. Roboto",
+      "image": "rbxthumb://type=Asset&id=124155237517187&w=420&h=420",
+      "parts": {
+		"Torso": 27121265,
+        "LeftArm": 27121353,
+        "RightArm": 27121306,
+        "LeftLeg": 27121393,
+        "RightLeg": 27121432
+      }
+    },
+	  {
+      "name": "Penguin",
+      "image": "rbxthumb://type=Asset&id=90458843926327&w=420&h=420",
+      "parts": {
+		"Torso": 46358991,
+        "LeftArm": 46359095,
+        "RightArm": 46359040,
+        "LeftLeg": 46359181,
+        "RightLeg": 46359241
+      }
+    },
+	  {
+      "name": "Elf",
+      "image": "rbxthumb://type=Asset&id=103725228793511&w=420&h=420",
+      "parts": {
+		"Torso": 41797408,
+        "LeftArm": 41797491,
+        "RightArm": 41797571,
+        "LeftLeg": 41797533,
+        "RightLeg": 41797445
+      }
+    },
+	  {
+      "name": "Mr. Robot",
+      "image": "rbxthumb://type=Asset&id=104768065266057&w=420&h=420",
+      "parts": {
+		"Torso": 54116290,
+        "LeftArm": 54116373,
+        "RightArm": 54116338,
+        "LeftLeg": 54116394,
+        "RightLeg": 54116432
+      }
     }
   ]
 }
