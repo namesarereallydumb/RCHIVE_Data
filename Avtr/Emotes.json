@@ -10,6 +10,11 @@
 		{ "name": "/e happierjump", "asset": 93721327926558, "loop": true },
 		{ "name": "/e godlike", "asset": 136613419741601, "loop": false },
 		{ "name": "/e babydance", "asset": 130641163999235, "loop": true },
-		{ "name": "/e fallfloat", "asset": 116207957450182, "loop": false }
+		{ "name": "/e fallfloat", "asset": 116207957450182, "loop": false },
+		{ "name": "/e airdance", "asset": 124810421751618, "loop": true },
+		{ "name": "/e dorkydance", "asset": 93834457156284, "loop": true },
+		{ "name": "/e fancyfeet", "asset": 128345614129579, "loop": false },
+		{ "name": "/e fancyfeet", "asset": 128345614129579, "loop": false },
+		{ "name": "/e robot", "asset": 75054186482627, "loop": true }
 	]
 }
