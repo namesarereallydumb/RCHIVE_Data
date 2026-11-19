@@ -9,6 +9,8 @@
 		{ "name": "Red Banded Boss White Hat", "minRole": "Admin", "asset": "173624749", "image": "rbxthumb://type=Asset&id=173624749&w=420&h=420" },
 		{ "name": "long head", "minRole": "Moderator", "asset": "14967052992", "image": "rbxthumb://type=Asset&id=14967052992&w=420&h=420" },
 		{ "name": "): Red Grind", "minRole": "Admin", "asset": "20573086", "image": "rbxthumb://type=Asset&id=20573086&w=420&h=420" },
-		{ "name": "): Euro 180", "minRole": "Moderator", "asset": "23705521", "image": "rbxthumb://type=Asset&id=23705521&w=420&h=420" }
+		{ "name": "): Euro 180", "minRole": "Moderator", "asset": "23705521", "image": "rbxthumb://type=Asset&id=23705521&w=420&h=420" },\
+		{ "name": "Rbadam's Smokestack Top Hat", "minRole": "Owner", "asset": "169444515", "image": "rbxthumb://type=Asset&id=169444515&w=420&h=420" },
+		{ "name": "The Golden Robloxian", "minRole": "Moderator", "asset": "2799053", "image": "rbxthumb://type=Asset&id=2799053&w=420&h=420" }
 	]
 }
