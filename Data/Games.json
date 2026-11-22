@@ -1,6 +1,6 @@
 {
 	"GAMES": [
-		{ "name": "Test 1", "image": "136857811345410", "place": 88189104576879 },
-		{ "name": "Test 2", "image": "136857811345410", "place": 90413233007205 }
+		{ "name": "test 1", "image": "rbxassetid://136857811345410", "place": 88189104576879 },
+		{ "name": "test 2", "image": "rbxassetid://136857811345410", "place": 90413233007205 }
 	]
 }
